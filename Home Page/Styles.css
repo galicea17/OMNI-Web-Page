@@ -1,3 +1,30 @@
 .my-caption-class {
   bottom: 60px;
 }
+
+.carousel-item {
+  height: 600px;
+}
+
+/* .img-bg {
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.65)
+    ),
+    url(IMG_3929.jpg);
+  background-size: cover;
+} */
+
+.carousel-item span{
+  font-size: 50px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+header h1{
+  text-align: center;
+}
+
+body{
+  background-color:;
+}
